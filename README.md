@@ -13,14 +13,25 @@ At **KyroIT**, we transform complex business requirements into secure, high-perf
 
 ---
 
-## 📂 Featured Projects
-- **Kyro-Salon-Booking:** Advanced appointment management system.
-- **Kyro-Travel-Master:** Comprehensive tourism and travel platform.
-- **Project-Showcase:** Innovative full-stack system implementations.
-- **E-commerce Solutions:** Fully integrated online stores with local/international payment gateways.
-- **Portfolio-website:** A modern showcase of KyroIT's capabilities, featuring a sleek UI and an optimized experience.
 
 ---
+
+## 📂 Key Projects & Portfolio
+
+### 🌟 Featured: Professional Portfolio Website
+A modern showcase of KyroIT's capabilities, featuring a sleek UI and an optimized experience.
+- **Tech:** WordPress / Custom CSS / Elementor
+- **Status:** ✅ Completed & Live
+
+### 🛒 E-commerce Solutions
+Fully integrated online stores featuring local and international payment gateways for seamless business operations.
+- **Tech:** WooCommerce / WordPress / Secure Payment APIs
+- **Status:** ✅ Completed & Live
+
+### 🌍 Other Major Works:
+- **Kyro-Travel-Master:** Comprehensive tourism and travel management platform.
+- **Kyro-Salon-Booking:** Advanced appointment & stylist management system.
+
 
 ## 🤝 Let's Collaborate
 We are open to projects and collaborations. If you have a vision, we have the tech.
